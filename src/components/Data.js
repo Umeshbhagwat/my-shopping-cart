@@ -40,6 +40,27 @@ const Data =[
         category: 'Cup',
         seller: 'ABS Ltd',
         price: 100
+      },
+      {
+        url: 'https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg',
+        name: ' Bag  Brown Color',
+        category: 'Bag',
+        seller: 'ABS Ltd',
+        price:2500
+      },
+      {
+        url: 'https://cdn.shopify.com/s/files/1/1169/2482/products/B_WPX7-spacegrey_1800x1800.jpg?v=1629794351',
+        name: 'Black Color',
+        category: 'Headphones',
+        seller: 'USB Ltd',
+        price:2700
+      },
+      {
+        url: 'https://www.reliancedigital.in/medias/Amazon-Echo-dot-3-0-BK-Computer-Speaker-491431035-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w3NjM2NHxpbWFnZS9qcGVnfGltYWdlcy9oYjUvaGY3LzkwNTk0NDcwNDYxNzQuanBnfGFlZjBlOTZkMzY4MmI0ZTBhMDMzZWRiMjM1MjE2OWYxYTFmZWMxMWJlNjY2YzI5Nzc4ODM0ZWU2MWNlYjY0ZjE',
+        name: 'Black Color',
+        category: 'Amazon Eco',
+        seller: 'USB Ltd',
+        price:2700
       }
     ]
     export default Data;
